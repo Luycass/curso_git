@@ -15,3 +15,4 @@ puts lista.length                   # vai mostrar o numero de elementos da nossa
 puts lista.sort                     # ele vai organiza nossa lista em ordem alfabetica 
 puts lista.sort.first               # ele vai mostra o primeiro elemento da lista
 puts lista.sort.last                # ele vai mostra o ultimo elemento da lista
+puts lista.max                      # ele vai mostra quem e o maior , funciona so com numero
